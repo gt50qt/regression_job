@@ -1,0 +1,15 @@
+2020-07-25 22:37:59 - api - "D:/soft/api_project_202004/case/a.py:8" - <module> - INFO - ----info-------
+
+2020-07-25 22:40:12 - api - "D:/soft/api_project_202004/case/a.py:8" - <module> - INFO - ----info-------
+
+2020-07-25 22:40:32 - api - "D:/soft/api_project_202004/case/a.py:8" - <module> - INFO - ----info-------
+
+2020-07-25 22:41:55 - api - "D:/soft/api_project_202004/case/a.py:8" - <module> - DEBUG - ----debug--------
+2020-07-25 22:41:55 - api - "D:/soft/api_project_202004/case/a.py:9" - <module> - INFO - -------info-------
+2020-07-25 22:41:55 - api - "D:/soft/api_project_202004/case/a.py:10" - <module> - WARNING - -----waring----
+
+2020-07-25 22:42:11 - api - "D:/soft/api_project_202004/case/a.py:8" - <module> - DEBUG - ----debug--------
+2020-07-25 22:42:11 - api - "D:/soft/api_project_202004/case/a.py:9" - <module> - INFO - -------info-------
+2020-07-25 22:42:11 - api - "D:/soft/api_project_202004/case/a.py:10" - <module> - WARNING - -----waring----
+2020-07-25 22:42:11 - api - "D:/soft/api_project_202004/case/a.py:11" - <module> - ERROR - ----error----
+

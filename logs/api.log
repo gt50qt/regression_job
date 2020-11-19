@@ -1,0 +1,56 @@
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "9e6e31c410dc3c96026bcdd74d5d7c9ea1dd1ba9"}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:9e6e31c410dc3c96026bcdd74d5d7c9ea1dd1ba9
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 3003, "msg": "账号或密码不正确", "username": "test2", "token": ""}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 2000, "msg": "test_123用户已被注册", "datas": {}}
+
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "07687da524b209195aaf20f59b55147cbca456fe"}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:07687da524b209195aaf20f59b55147cbca456fe
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"M","mail":"xxx@qq.com"}}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"F","mail":"xxx@qq.com"}}
+2020-07-25 22:50:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":80,"sex":"F","mail":"xxx@qq.com"}}
+
+2020-07-25 22:50:50 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "fcd342a940a440676fb97f103bea7da657deb28c"}
+2020-07-25 22:50:50 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:fcd342a940a440676fb97f103bea7da657deb28c
+2020-07-25 22:50:50 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 3003, "msg": "账号或密码不正确", "username": "test2", "token": ""}
+2020-07-25 22:50:50 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:
+2020-07-25 22:50:50 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 2000, "msg": "test_123用户已被注册", "datas": {}}
+
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "490ada054caa1a14a65d3913793c433001aa348f"}
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:490ada054caa1a14a65d3913793c433001aa348f
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"M","mail":"xxx@qq.com"}}
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"F","mail":"xxx@qq.com"}}
+2020-07-25 22:50:51 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":80,"sex":"F","mail":"xxx@qq.com"}}
+
+2020-07-25 22:51:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "cfbec96adbaa70aac59dfb1ce81a2dc243feccf9"}
+2020-07-25 22:51:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:cfbec96adbaa70aac59dfb1ce81a2dc243feccf9
+2020-07-25 22:51:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 3003, "msg": "账号或密码不正确", "username": "test2", "token": ""}
+2020-07-25 22:51:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:
+2020-07-25 22:51:15 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 2000, "msg": "test_123用户已被注册", "datas": {}}
+
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "8f68572c545d0647caae2bbeb3adeb9fc19b803f"}
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:8f68572c545d0647caae2bbeb3adeb9fc19b803f
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"M","mail":"xxx@qq.com"}}
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"F","mail":"xxx@qq.com"}}
+2020-07-25 22:51:16 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":80,"sex":"F","mail":"xxx@qq.com"}}
+
+2020-07-25 22:52:00 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "cc89fc0368a2594b59cced33481b70edf66cd89f"}
+2020-07-25 22:52:00 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:cc89fc0368a2594b59cced33481b70edf66cd89f
+2020-07-25 22:52:00 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 3003, "msg": "账号或密码不正确", "username": "test2", "token": ""}
+2020-07-25 22:52:00 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 0, "msg": "注册成功!", "datas": {}}
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:64" - register - DEBUG - 注册接口返回:{"code": 2000, "msg": "test_123用户已被注册", "datas": {}}
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:19" - login - DEBUG - 登陆返回:{"code": 0, "msg": "login success!", "username": "test2", "token": "9047a01285c080293ad4f43f46b17e894e5f6cb6"}
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:24" - login - DEBUG - 获取token:9047a01285c080293ad4f43f46b17e894e5f6cb6
+
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"M","mail":"xxx@qq.com"}}
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":10,"sex":"F","mail":"xxx@qq.com"}}
+2020-07-25 22:52:01 - api - "D:\soft\api_project_202004\case\common_api\common_fuction.py:51" - modefy_info - DEBUG - 修改个人信息:{"message":"update some data!","code":0,"data":{"name":"test2","age":80,"sex":"F","mail":"xxx@qq.com"}}
+
